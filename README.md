@@ -5,7 +5,6 @@ Reproduce paper figures from the released High-Entropy Ceramics package.
 ## Setup
 
 ```bash
-cd "Release code/Analysis"
 python -m pip install -r requirements.txt
 ```
 
